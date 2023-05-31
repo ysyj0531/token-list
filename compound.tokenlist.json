@@ -1,0 +1,96 @@
+{
+  "name": "MRDAO token-list",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 30888,
+      "address": "0x6Dc1F034227F67b59f13fa8d300C8E078128e7EC",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0x7e0669FB6834372834eF7554e6d3aB7Ce1829cBc",
+      "name": "Compound USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0x6E8f6d5CfC42Cf1b7F4b184c3725da1B327AEbFd",
+      "name": "Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0xf39a2419b0C281B7f47b474dccebe4A43420c143",
+      "name": "Binance",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0x5b796754329127509D19666E658B397481dFE3EC",
+      "name": "Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0x14c9B03B0180DfeE332EfCE53A6f4d5abB7Fee70",
+      "name": "Moutai Token",
+      "symbol": "MOUT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0xC6BC33cb9e8e63F9618FC47CeC65991B860D2025",
+      "name": "PENFOLDS389",
+      "symbol": "P389",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0xdE7f15b587A9170f8A3b0128890a91639D3A0CB4",
+      "name": "MRDAO Token",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdt.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0xf880a3b95073f603d87F803827b2FC98bDe8C74f",
+      "name": "Game DAO",
+      "symbol": "GDAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_bat.svg"
+    },
+    {
+      "chainId": 30888,
+      "address": "0xfF083898Fdade12522010B0Fda266a4334b7473e ",
+      "name": "WMDAO",
+      "symbol": "WMDAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
