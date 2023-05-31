@@ -61,7 +61,7 @@
       "name": "PENFOLDS389",
       "symbol": "P389",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_POOL.svg"
+      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_SAI.svg"
     },
     {
       "chainId": 30888,
@@ -77,7 +77,7 @@
       "name": "Game DAO",
       "symbol": "GDAO",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_bat.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_ZRX.svg"
     },
     {
       "chainId": 30888,
