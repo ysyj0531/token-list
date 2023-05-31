@@ -37,7 +37,7 @@
       "name": "Binance",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_ZRX.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/bnb.svg"
     },
     {
       "chainId": 30888,
@@ -45,7 +45,7 @@
       "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_wbtc.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/BTC.svg"
     },
     {
       "chainId": 30888,
@@ -69,7 +69,7 @@
       "name": "MRDAO Token",
       "symbol": "DAO",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_usdt.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/dao.svg"
     },
     {
       "chainId": 30888,
