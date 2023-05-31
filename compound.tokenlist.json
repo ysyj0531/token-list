@@ -53,7 +53,7 @@
       "name": "Moutai Token",
       "symbol": "MOUT",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_USDT.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_SAI.svg"
     },
     {
       "chainId": 30888,
@@ -61,7 +61,7 @@
       "name": "PENFOLDS389",
       "symbol": "P389",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_SAI.svg"
+      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_BAT.svg"
     },
     {
       "chainId": 30888,
