@@ -21,7 +21,7 @@
       "name": "Compound USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_usdc.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_USDC.svg"
     },
     {
       "chainId": 30888,
@@ -29,7 +29,7 @@
       "name": "Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_dai.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_ETH.svg"
     },
     {
       "chainId": 30888,
@@ -37,7 +37,7 @@
       "name": "Binance",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_DAI.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_ZRX.svg"
     },
     {
       "chainId": 30888,
@@ -45,7 +45,7 @@
       "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_SAI.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_wbtc.svg"
     },
     {
       "chainId": 30888,
@@ -61,7 +61,7 @@
       "name": "PENFOLDS389",
       "symbol": "P389",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_COMP.svg"
+      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_POOL.svg"
     },
     {
       "chainId": 30888,
