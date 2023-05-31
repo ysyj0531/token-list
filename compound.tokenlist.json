@@ -13,7 +13,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_USDT.svg"
     },
     {
       "chainId": 30888,
@@ -21,7 +21,7 @@
       "name": "Compound USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_usdc.svg"
     },
     {
       "chainId": 30888,
@@ -29,7 +29,7 @@
       "name": "Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_dai.svg"
     },
     {
       "chainId": 30888,
@@ -37,7 +37,7 @@
       "name": "Binance",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_DAI.svg"
     },
     {
       "chainId": 30888,
@@ -45,7 +45,7 @@
       "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_SAI.svg"
     },
     {
       "chainId": 30888,
@@ -53,7 +53,7 @@
       "name": "Moutai Token",
       "symbol": "MOUT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_USDT.svg"
     },
     {
       "chainId": 30888,
@@ -61,7 +61,7 @@
       "name": "PENFOLDS389",
       "symbol": "P389",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
+      "logoURI": "https://ysyj0531.github.io/token-listassets/asset_COMP.svg"
     },
     {
       "chainId": 30888,
@@ -69,7 +69,7 @@
       "name": "MRDAO Token",
       "symbol": "DAO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdt.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_usdt.svg"
     },
     {
       "chainId": 30888,
@@ -77,7 +77,7 @@
       "name": "Game DAO",
       "symbol": "GDAO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_bat.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/ctoken_bat.svg"
     },
     {
       "chainId": 30888,
@@ -85,7 +85,7 @@
       "name": "WMDAO",
       "symbol": "WMDAO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_BAT.svg"
     }
   ],
   "version": {
